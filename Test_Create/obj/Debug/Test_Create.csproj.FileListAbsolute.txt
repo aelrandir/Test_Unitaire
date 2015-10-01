@@ -1,0 +1,7 @@
+C:\Users\Laurinne\Documents\B2 CoursProjetsTP\C# TestUnitaires\Tp_SystemFile\Test_Create\bin\Debug\Test_Create.dll
+C:\Users\Laurinne\Documents\B2 CoursProjetsTP\C# TestUnitaires\Tp_SystemFile\Test_Create\bin\Debug\Test_Create.pdb
+C:\Users\Laurinne\Documents\B2 CoursProjetsTP\C# TestUnitaires\Tp_SystemFile\Test_Create\bin\Debug\Tp_SystemFile.exe
+C:\Users\Laurinne\Documents\B2 CoursProjetsTP\C# TestUnitaires\Tp_SystemFile\Test_Create\bin\Debug\Tp_SystemFile.pdb
+C:\Users\Laurinne\Documents\B2 CoursProjetsTP\C# TestUnitaires\Tp_SystemFile\Test_Create\obj\Debug\Test_Create.csprojResolveAssemblyReference.cache
+C:\Users\Laurinne\Documents\B2 CoursProjetsTP\C# TestUnitaires\Tp_SystemFile\Test_Create\obj\Debug\Test_Create.dll
+C:\Users\Laurinne\Documents\B2 CoursProjetsTP\C# TestUnitaires\Tp_SystemFile\Test_Create\obj\Debug\Test_Create.pdb

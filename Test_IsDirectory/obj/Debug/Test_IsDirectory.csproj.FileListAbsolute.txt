@@ -1,0 +1,7 @@
+C:\Users\Laurinne\Documents\B2 CoursProjetsTP\C# TestUnitaires\Tp_SystemFile\Test_IsDirectory\bin\Debug\Test_IsDirectory.dll
+C:\Users\Laurinne\Documents\B2 CoursProjetsTP\C# TestUnitaires\Tp_SystemFile\Test_IsDirectory\bin\Debug\Test_IsDirectory.pdb
+C:\Users\Laurinne\Documents\B2 CoursProjetsTP\C# TestUnitaires\Tp_SystemFile\Test_IsDirectory\obj\Debug\Test_IsDirectory.csprojResolveAssemblyReference.cache
+C:\Users\Laurinne\Documents\B2 CoursProjetsTP\C# TestUnitaires\Tp_SystemFile\Test_IsDirectory\obj\Debug\Test_IsDirectory.dll
+C:\Users\Laurinne\Documents\B2 CoursProjetsTP\C# TestUnitaires\Tp_SystemFile\Test_IsDirectory\obj\Debug\Test_IsDirectory.pdb
+C:\Users\Laurinne\Documents\B2 CoursProjetsTP\C# TestUnitaires\Tp_SystemFile\Test_IsDirectory\bin\Debug\Tp_SystemFile.exe
+C:\Users\Laurinne\Documents\B2 CoursProjetsTP\C# TestUnitaires\Tp_SystemFile\Test_IsDirectory\bin\Debug\Tp_SystemFile.pdb

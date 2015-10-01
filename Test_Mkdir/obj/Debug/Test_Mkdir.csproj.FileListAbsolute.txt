@@ -1,0 +1,7 @@
+C:\Users\Laurinne\Documents\B2 CoursProjetsTP\C# TestUnitaires\Tp_SystemFile\Test_Mkdir\bin\Debug\Test_Mkdir.dll
+C:\Users\Laurinne\Documents\B2 CoursProjetsTP\C# TestUnitaires\Tp_SystemFile\Test_Mkdir\bin\Debug\Test_Mkdir.pdb
+C:\Users\Laurinne\Documents\B2 CoursProjetsTP\C# TestUnitaires\Tp_SystemFile\Test_Mkdir\bin\Debug\Tp_SystemFile.exe
+C:\Users\Laurinne\Documents\B2 CoursProjetsTP\C# TestUnitaires\Tp_SystemFile\Test_Mkdir\bin\Debug\Tp_SystemFile.pdb
+C:\Users\Laurinne\Documents\B2 CoursProjetsTP\C# TestUnitaires\Tp_SystemFile\Test_Mkdir\obj\Debug\Test_Mkdir.csprojResolveAssemblyReference.cache
+C:\Users\Laurinne\Documents\B2 CoursProjetsTP\C# TestUnitaires\Tp_SystemFile\Test_Mkdir\obj\Debug\Test_Mkdir.dll
+C:\Users\Laurinne\Documents\B2 CoursProjetsTP\C# TestUnitaires\Tp_SystemFile\Test_Mkdir\obj\Debug\Test_Mkdir.pdb

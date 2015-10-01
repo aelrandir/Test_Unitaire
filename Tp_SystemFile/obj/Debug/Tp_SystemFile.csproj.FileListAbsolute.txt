@@ -1,0 +1,6 @@
+C:\Users\Laurinne\Documents\B2 CoursProjetsTP\C# TestUnitaires\Tp_SystemFile\Tp_SystemFile\bin\Debug\Tp_SystemFile.exe.config
+C:\Users\Laurinne\Documents\B2 CoursProjetsTP\C# TestUnitaires\Tp_SystemFile\Tp_SystemFile\obj\Debug\Tp_SystemFile.csprojResolveAssemblyReference.cache
+C:\Users\Laurinne\Documents\B2 CoursProjetsTP\C# TestUnitaires\Tp_SystemFile\Tp_SystemFile\bin\Debug\Tp_SystemFile.exe
+C:\Users\Laurinne\Documents\B2 CoursProjetsTP\C# TestUnitaires\Tp_SystemFile\Tp_SystemFile\bin\Debug\Tp_SystemFile.pdb
+C:\Users\Laurinne\Documents\B2 CoursProjetsTP\C# TestUnitaires\Tp_SystemFile\Tp_SystemFile\obj\Debug\Tp_SystemFile.exe
+C:\Users\Laurinne\Documents\B2 CoursProjetsTP\C# TestUnitaires\Tp_SystemFile\Tp_SystemFile\obj\Debug\Tp_SystemFile.pdb
