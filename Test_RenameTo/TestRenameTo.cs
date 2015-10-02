@@ -17,5 +17,16 @@ namespace Test_RenameTo
             CurrentFile.renameTo("toto", "titi");
             Assert.AreEqual("titi", C.file[0].name);
         }
+
+        [TestMethod]
+        public void TestMethod2()
+        {
+            Directory C = new Directory("C:", null);
+            File CurrentFile = C;
+            Directory toto = new Directory("toto", C);
+            C.file.Add(toto);
+            CurrentFile.renameTo("toto", "titi");
+            Assert.AreEqual("titi", C.file[0].name);
+        }
     }
 }
