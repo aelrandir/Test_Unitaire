@@ -1,0 +1,7 @@
+C:\Users\Laurinne\Documents\B2 CoursProjetsTP\C# TestUnitaires\Tp_SystemFile\Test_IsFile\bin\Debug\Test_IsFile.dll
+C:\Users\Laurinne\Documents\B2 CoursProjetsTP\C# TestUnitaires\Tp_SystemFile\Test_IsFile\bin\Debug\Test_IsFile.pdb
+C:\Users\Laurinne\Documents\B2 CoursProjetsTP\C# TestUnitaires\Tp_SystemFile\Test_IsFile\bin\Debug\Tp_SystemFile.exe
+C:\Users\Laurinne\Documents\B2 CoursProjetsTP\C# TestUnitaires\Tp_SystemFile\Test_IsFile\bin\Debug\Tp_SystemFile.pdb
+C:\Users\Laurinne\Documents\B2 CoursProjetsTP\C# TestUnitaires\Tp_SystemFile\Test_IsFile\obj\Debug\Test_IsFile.dll
+C:\Users\Laurinne\Documents\B2 CoursProjetsTP\C# TestUnitaires\Tp_SystemFile\Test_IsFile\obj\Debug\Test_IsFile.pdb
+C:\Users\Laurinne\Documents\B2 CoursProjetsTP\C# TestUnitaires\Tp_SystemFile\Test_IsFile\obj\Debug\Test_IsFile.csprojResolveAssemblyReference.cache

@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // Les informations générales relatives à un assembly dépendent de 
 // l'ensemble d'attributs suivant. Changez les valeurs de ces attributs pour modifier les informations
 // associées à un assembly.
-[assembly: AssemblyTitle("Test FileSystem")]
+[assembly: AssemblyTitle("Test_IsFile")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Test FileSystem")]
+[assembly: AssemblyProduct("Test_IsFile")]
 [assembly: AssemblyCopyright("Copyright ©  2015")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // Le GUID suivant est pour l'ID de la typelib si ce projet est exposé à COM
-[assembly: Guid("c034dc77-b268-40a9-adab-c668fb6fcb6f")]
+[assembly: Guid("42547c0a-0fe0-497f-a2a6-12ec0aba9910")]
 
 // Les informations de version pour un assembly se composent des quatre valeurs suivantes :
 //

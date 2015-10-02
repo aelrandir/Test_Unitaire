@@ -2,7 +2,7 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Tp_SystemFile;
 
-namespace Test_FileSystem
+namespace Test_IsFile
 {
     [TestClass]
     public class TestIsFile
