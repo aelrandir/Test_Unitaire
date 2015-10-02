@@ -14,5 +14,13 @@ namespace Test_Mkdir
             File CurrentFile = C;
             Assert.IsTrue(CurrentFile.mkdir("NewDirectory"));
         }
+
+        [TestMethod]
+        public void TestMethod2()
+        {
+            File C = new File("C:", null);
+            File CurrentFile = C;
+            Assert.IsFalse(CurrentFile.mkdir("NewDirectory"));
+        }
     }
 }

@@ -13,5 +13,12 @@ namespace Test_FileSystem
             Directory CurrentFile = new Directory("C:", null);
             Assert.IsFalse(CurrentFile.isFile());
         }
+
+        [TestMethod]
+        public void TestMethod2()
+        {
+            File CurrentFile = new File("C:", null);
+            Assert.IsTrue(CurrentFile.isFile());
+        }
     }
 }

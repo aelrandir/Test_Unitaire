@@ -14,5 +14,13 @@ namespace Test_Create
             File CurrentFile = C;
             Assert.IsTrue(CurrentFile.createNewFile("NewFile"));
         }
+
+        [TestMethod]
+        public void TestMethod2()
+        {
+            File C = new File("C:", null);
+            File CurrentFile = C;
+            Assert.IsFalse(CurrentFile.createNewFile("NewFile"));
+        }
     }
 }

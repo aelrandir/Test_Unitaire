@@ -77,5 +77,10 @@ namespace Tp_SystemFile
         {
             return (rights & 4) > 0;
         }
+
+        public virtual bool delete(string name)
+        {
+            return false;
+        }
     }
 }

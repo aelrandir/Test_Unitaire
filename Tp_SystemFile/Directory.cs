@@ -8,7 +8,7 @@ namespace Tp_SystemFile
 {
     public class Directory : File
     {
-        List<File> file = new List<File>();
+        public List<File> file = new List<File>();
 
         public Directory(string name, Directory father)
             : base(name, father)
@@ -87,9 +87,8 @@ namespace Tp_SystemFile
             return true;
             //Only File
         }
-        public bool delete(string name)
+        public override bool delete(string name)
         {
-            file.Remove(new File(name, this));
             return true;
         }
     }
