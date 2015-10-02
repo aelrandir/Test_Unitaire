@@ -1,7 +1,7 @@
 C:\Users\Laurinne\Documents\B2 CoursProjetsTP\C# TestUnitaires\Tp_SystemFile\Test_Parent\bin\Debug\Test_Parent.dll
 C:\Users\Laurinne\Documents\B2 CoursProjetsTP\C# TestUnitaires\Tp_SystemFile\Test_Parent\bin\Debug\Test_Parent.pdb
+C:\Users\Laurinne\Documents\B2 CoursProjetsTP\C# TestUnitaires\Tp_SystemFile\Test_Parent\bin\Debug\Tp_SystemFile.exe
+C:\Users\Laurinne\Documents\B2 CoursProjetsTP\C# TestUnitaires\Tp_SystemFile\Test_Parent\bin\Debug\Tp_SystemFile.pdb
 C:\Users\Laurinne\Documents\B2 CoursProjetsTP\C# TestUnitaires\Tp_SystemFile\Test_Parent\obj\Debug\Test_Parent.csprojResolveAssemblyReference.cache
 C:\Users\Laurinne\Documents\B2 CoursProjetsTP\C# TestUnitaires\Tp_SystemFile\Test_Parent\obj\Debug\Test_Parent.dll
 C:\Users\Laurinne\Documents\B2 CoursProjetsTP\C# TestUnitaires\Tp_SystemFile\Test_Parent\obj\Debug\Test_Parent.pdb
-C:\Users\Laurinne\Documents\B2 CoursProjetsTP\C# TestUnitaires\Tp_SystemFile\Test_Parent\bin\Debug\Tp_SystemFile.exe
-C:\Users\Laurinne\Documents\B2 CoursProjetsTP\C# TestUnitaires\Tp_SystemFile\Test_Parent\bin\Debug\Tp_SystemFile.pdb

@@ -26,5 +26,21 @@ namespace Test_Delete
             C.file.Add(Test);
             Assert.IsTrue(CurrentFile.delete("test"));
         }
+
+        [TestMethod]
+        public void TestMethod3()
+        {
+            Directory C = new Directory("C:", null);
+            File CurrentFile = C;
+            Assert.IsFalse(CurrentFile.delete("test"));
+        }
+
+        [TestMethod]
+        public void TestMethod4()
+        {
+            File C = new File("C:", null);
+            File CurrentFile = C;
+            Assert.IsFalse(CurrentFile.delete("test"));
+        }
     }
 }

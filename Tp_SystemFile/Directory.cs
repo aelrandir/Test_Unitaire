@@ -89,7 +89,15 @@ namespace Tp_SystemFile
         }
         public override bool delete(string name)
         {
-            return true;
+            for (int i = 0; i < file.Count; i++)
+            {
+                if (file[i].name == name)
+                {
+                    this.file.Remove(file[i]);
+                    return true;
+                }
+            }
+            return false;
         }
     }
 }

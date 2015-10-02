@@ -2,6 +2,6 @@ C:\Users\Laurinne\Documents\B2 CoursProjetsTP\C# TestUnitaires\Tp_SystemFile\Tes
 C:\Users\Laurinne\Documents\B2 CoursProjetsTP\C# TestUnitaires\Tp_SystemFile\Test_GetPath\bin\Debug\Test_GetPath.pdb
 C:\Users\Laurinne\Documents\B2 CoursProjetsTP\C# TestUnitaires\Tp_SystemFile\Test_GetPath\bin\Debug\Tp_SystemFile.exe
 C:\Users\Laurinne\Documents\B2 CoursProjetsTP\C# TestUnitaires\Tp_SystemFile\Test_GetPath\bin\Debug\Tp_SystemFile.pdb
-C:\Users\Laurinne\Documents\B2 CoursProjetsTP\C# TestUnitaires\Tp_SystemFile\Test_GetPath\obj\Debug\Test_GetPath.csprojResolveAssemblyReference.cache
 C:\Users\Laurinne\Documents\B2 CoursProjetsTP\C# TestUnitaires\Tp_SystemFile\Test_GetPath\obj\Debug\Test_GetPath.dll
 C:\Users\Laurinne\Documents\B2 CoursProjetsTP\C# TestUnitaires\Tp_SystemFile\Test_GetPath\obj\Debug\Test_GetPath.pdb
+C:\Users\Laurinne\Documents\B2 CoursProjetsTP\C# TestUnitaires\Tp_SystemFile\Test_GetPath\obj\Debug\Test_GetPath.csprojResolveAssemblyReference.cache
